@@ -1,0 +1,14 @@
+{
+  "name": "nft-101",
+  "version": "1.0.0",
+  "description": "nft 101",
+  "main": "index.js",
+  "author": "Maxence Raballand",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "3.4.1",
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "dotenv": "^10.0.0",
+    "truffle": "^5.4.23"
+  }
+}
