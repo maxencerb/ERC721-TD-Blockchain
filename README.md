@@ -1,4 +1,4 @@
-# Blockchain TD on ERC20
+# Blockchain TD on ERC721
 
 &copy; Maxence Raballand 2021
 
